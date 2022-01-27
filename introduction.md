@@ -1,15 +1,10 @@
 # Introduction
 
-What is Metaverse on earth? Probably there is no certain description for the ultimate form of Metaverse, certainly, VR or AR games and the combination of multiple game worlds can not be defined as Metaverse. Roblox, an enclosed game, can not be defined as Metaverse. ARK: Survival Evolved which has better performance in creativity and immersive experience is a massive sandbox game that is not the form of Metaverse either.
+Ratel is a casual game aggregation platform with NFT at its core, linking players and games together. Players can have diverse gaming experiences and earn revenue from them. Game makers are able to access their game assets to the blockchain to create a benign ecology. The platform will gradually develop into a game-based metaverse game social platform in the future. Through the advantages of real ownership, digital scarcity, profitability and interoperability brought by blockchain technology, players can play, interact, share and create in RATEL, turning it into a part of life.The decentralized gaming-based autonomous platform allows players, the platform, and game makers to stand together to create fun games and content. Players can communicate, participate in the governance of the platform community, play their favorite games, and gain revenue from them. Game makers can put more energy into game production, and likewise game makers can gain revenue from the products they provide. Thus creating a benign ecology.Community Governance The platform will issue governance tokens in the second quarter of 2022, allowing the Ratel financial community to become a decentralized and autonomous organization, and $Ratel will serve as a governance pass for the platform to conduct central voting.
 
-From our perspective, Metaverse is a top-down ecosystem composed of numerous projects.
-
-We stand up for that one of the most vital criteria for judging the meta-universe is for living rather than for gaming. This so-called Metaverse is a figurative experience of our digital existence. For life, it means that humankind must be able to have income, consumption, and obtain the resources that have an impact of reality at the same time.
-
-We point that Metaverse is a world where asset property must be identified. It is for sure that Metaverse can not come true without blockchain and NFT.
-
-In 2021, The presence of play-to-earn mode within blockchain games shocks the world. Play-to-earn mode means that humans can live in Metaverse and affect us in reality.
-
-The world of Metaverse is not a world for entertainment, and should not be a world where humans pay for joy. The world of Metaverse should be a world where people can play to earn. It should be a world where private asset property can be certainly identified. The Metaverse is more than a game. DPK aims to create a digital community with access to an infinite number of universes.
-
-We hope that in a world of kitties, we can play to earn freely without anxiety and sadness.
+* To reward players, content creators and game providers in games that contribute to the Ratel platform
+* Players can use $Ratel to purchase in-game assets, such as props, consumables, and land
+* Later will participate in the multiplication of Metaverse Ratel NFT
+* Participate in pledging of liquidity mining pools for revenue rewards
+* Participate in the platform revenue share
+* DAO stakers have the ability to propose the direction of the ecosystem.
